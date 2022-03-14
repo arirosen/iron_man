@@ -1,0 +1,18 @@
+body{
+background-image:url(ironman.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+}
+img{margin-left: 20px;}
+  nav{background-color:rgb(55, 55, 175); position: relative;}
+ul{ display:inline;position: absolute;right: 0px;}
+li{ padding: 0 45px 20px 0; display: inline-block;
+}
+
+a{color:aliceblue
+
+}
+
+div{margin:250px 0 0 20px ;color:rgb(55, 55, 175)}
+h2{font-size: 80px;}
+p{width: 30%;}
